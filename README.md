@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jhonatan Alzate</h1>
 <h3 align="center">A passionate developer from Colombia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jhonatanyamid&label=Profile%20views&color=0e75b6&style=flat" alt="jhonatanyamid" /> </p>
-
 - 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [yoto.com](yoto.com)
